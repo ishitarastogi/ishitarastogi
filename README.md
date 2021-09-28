@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">Blockchain Developer</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/ishitarastogi" target="blank">Ishita</a></h1>
+<h3 align="center">Budding Blockchain Developer</h3>
 
-- 🔭 I’m currently attending a 8 week Solidity learning program by **Encode Academy**
+- 🔭 I’m currently attending a 8 week Solidity learning program by **<a href="https://www.encode.club/" target="blank">Encode Academy</a>**
 
-- 🌱 I’m currently learning **Reactjs , Solidity and DSA**
+- 🌱 I’m currently learning **<a href="https://reactjs.org/" target="blank">Reactjs</a> , <a href="https://docs.soliditylang.org/en/v0.8.8/" target="blank">Solidity</a> and <a href="https://www.geeksforgeeks.org/data-structures/" target="blank">DSA</a>**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Blockchain based Projects**
 
 - 📝 I occasionally write articles on [https://ishitarastogi.medium.com/](https://ishitarastogi.medium.com/)
 
