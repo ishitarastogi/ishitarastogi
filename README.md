@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Solidity and Javascript**
 
-- 📫 How to reach me **ishita3099@gmail.com**
+- 📫 How to reach me https://linkedin.com/in/ishitarastogii
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
