@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ishitarastogi" target="blank">Ishita</a></h1>
 <h3 align="center">Budding Blockchain Developer</h3>
 
-- 🔭 I’m completed the 8 week Solidity learning program by **<a href="https://www.encode.club/" target="blank">Encode Academy</a>**
+- 🔭 I completed the 8 week Solidity learning program by **<a href="https://www.encode.club/" target="blank">Encode Academy</a>**
 
 - 🌱 I’m currently learning **<a href="https://reactjs.org/" target="blank">Reactjs</a> and <a href="https://docs.soliditylang.org/en/v0.8.8/" target="blank">Solidity</a>**
 
