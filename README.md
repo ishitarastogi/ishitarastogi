@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ishitarastogi" target="blank">Ishita</a></h1>
-<h3 align="center">Budding Blockchain Developer</h3>
+<h3 align="center">Blockchain Developer</h3>
 
 - 🔭 I completed the 8 week Solidity learning program by **<a href="https://www.encode.club/" target="blank">Encode Academy</a>**
 
