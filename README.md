@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ishitarastogi" target="blank">Ishita</a></h1>
 <h3 align="center">Blockchain Developer</h3>
 
-- 🔭 I completed the 8 week Solidity learning program by **<a href="https://www.encode.club/" target="blank">Encode Academy</a>**
+- 🔭 I am currently learning zero knowledge, Starknet, Cairo. 
 
 - 👯 I’m looking to collaborate on **Blockchain based Projects**
 
