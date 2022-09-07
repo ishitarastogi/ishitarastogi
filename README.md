@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **Blockchain based Projects**
 
-- 📝 I occasionally write articles on [https://ishitarastogi.medium.com/](https://ishitarastogi.medium.com/)
+- 📝 I occasionally write articles on <a href="https://ishitarastogi.medium.com/">Medium</a>
 
 - 💬 Ask me about **Solidity and Javascript**
 
-- 📫 How to reach me https://linkedin.com/in/ishitarastogii
+- 📫 How to reach me: <a href="https://linkedin.com/in/ishitarastogii">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
